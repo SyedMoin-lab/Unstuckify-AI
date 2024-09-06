@@ -1,5 +1,7 @@
 # Still Working on this 
-#Unstuckify-AI: A Modern Fullstack SaaS Platform
+
+<td><img src="https://i.pinimg.com/564x/90/66/f5/9066f552115dcd72f38db4e09e2a9b9b.jpg" width="300" /></td>
+# Unstuckify-AI: A Modern Fullstack SaaS Platform
 
 
 Unstuckify-AI is an innovative SaaS platform designed to revolutionize the way students interact with study materials. By combining the latest web technologies with advanced AI capabilities, this platform provides an all-in-one solution for students to access, manage, and engage with educational content in an intuitive and user-friendly environment.
